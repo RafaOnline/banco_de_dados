@@ -69,9 +69,7 @@ O arquivo [`comandos_sql.md`](./comandos_sql.md) contém todos os tópicos a seg
 **Rafael de Oliveira**  
 Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas  
 
-💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-💻 [GitHub](https://github.com/seu-usuario)  
-✉️ Contato:(orafael49@gmail.com)
+✉️ [E-mail](orafael49@gmail.com)  
 
 Se gostou do projeto, deixe uma ⭐ no repositório para apoiar o desenvolvimento!
 “Conhecimento só tem valor quando é compartilhado.” 💬
