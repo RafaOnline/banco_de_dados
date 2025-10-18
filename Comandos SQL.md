@@ -5,6 +5,19 @@ Compatível com PostgreSQL e outros SGBDs relacionais.
 
 ---
 
+## 🧩 Criação e Estrutura de Tabelas
+```sql
+CREATE TABLE aluno (
+    id SERIAL PRIMARY KEY,            -- auto incremento
+    nome VARCHAR(100) NOT NULL,
+    email VARCHAR(100) UNIQUE,
+    idade INT CHECK (idade >= 0),     -- validação de valor
+    sexo CHAR(1) DEFAULT 'M'          -- valor padrão
+);
+```
+🔹 CHECK é ótimo para impor regras dentro da própria tabela.
+Exemplo: impedir idades negativas.
+
 ## 🔒 Constraints (Restrições)
 
 ### **UNIQUE**
