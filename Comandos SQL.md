@@ -313,6 +313,14 @@ GROUP BY sexo;
 ```
 ## 🔄 Junções (JOINS)
 
+### INNER JOIN (junção mais comum)
+```sql
+SELECT c.nome AS curso, n.descricao AS nivel
+FROM curso c
+INNER JOIN nivel n ON n.codigonivel = c.codigonivel;
+```
+🔹 Retorna apenas os registros que têm correspondência nas duas tabelas.
+
 ### LEFT JOIN
 ```sql
 SELECT c.codigocurso, c.nome, n.codigonivel, n.descricao
