@@ -71,7 +71,7 @@ Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas
 
 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
 💻 [GitHub](https://github.com/seu-usuario)  
-✉️ Contato: seuemail@exemplo.com  
+✉️ Contato:(orafael49@gmail.com)
 
 Se gostou do projeto, deixe uma ⭐ no repositório para apoiar o desenvolvimento!
 “Conhecimento só tem valor quando é compartilhado.” 💬
