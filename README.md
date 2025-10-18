@@ -72,5 +72,6 @@ Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas
 ✉️ [E-mail](orafael49@gmail.com)  
 
 Se gostou do projeto, deixe uma ⭐ no repositório para apoiar o desenvolvimento!
+
 “Conhecimento só tem valor quando é compartilhado.” 💬
 
